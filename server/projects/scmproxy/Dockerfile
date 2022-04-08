@@ -1,5 +1,5 @@
 # 拉取Python官方3.7.9镜像
-FROM python:3.7.9-slim
+FROM python:3.11.0a7-slim
 
 # 创建目录
 RUN mkdir -p /var/www/scmproxy
