@@ -1,4 +1,4 @@
-FROM python:3.7.12-slim
+FROM python:3.7-slim
 # For ARM
 # FROM arm64v8/python:3.7.12-slim
 
