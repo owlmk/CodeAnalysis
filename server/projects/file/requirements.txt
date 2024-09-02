@@ -1,6 +1,6 @@
 # File Server Requirements
 # for server deploy
-gunicorn==20.1.0
+gunicorn==21.2.0
 
 # for django
 Django==3.1.14
